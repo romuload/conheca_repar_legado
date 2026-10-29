@@ -400,8 +400,12 @@ a.etapa:hover, a.etapa:focus-visible { filter: brightness(1.15); }
 /* ---------- rodapé ---------- */
 
 .rodape {
-  text-align: center;
-  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px 40px;
+  padding-top: 14px;
 }
 .rodape img { max-width: 100%; height: auto; }
 
