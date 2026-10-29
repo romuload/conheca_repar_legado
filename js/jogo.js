@@ -175,7 +175,6 @@
         </div>
         <div class="fim-links">
           <button type="button" class="link-seta" id="btn-novamente">Jogar novamente</button>
-          <a class="link-seta" href="geral.html" target="_blank" rel="noopener">Conheça todo o processo</a>
         </div>
       </div>`;
     el.palco.appendChild(fim);
