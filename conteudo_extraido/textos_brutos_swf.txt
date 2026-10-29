@@ -1,0 +1,479 @@
+﻿[label root f2] fase_01
+[text 40 root f2]
+De que terminal marítimo o petróleo extraído 
+é transportado?
+[text 42 root f2]
+São Francisco do Sul
+[text 43 root f2]
+Florianópolis
+[text 44 root f2]
+Todos os Santos
+[text 52 root f2]
+RESPONDER
+[text 53 root f2]
+>>
+[text 60 root f2]
+VOLTAR
+[text 64 root f2]
+O petróleo que é extraído dos poços marítimos é 
+transportado por navios petroleiros até o terminal marítimo 
+de São Francisco do Sul – onde se dá o escoamento, 
+através da monobóia e dutos marinhos, até os tanques do 
+Terminal. Atualmente, o elenco de petróleo recebido tem 
+sua maior parte proveniente da Bacia de Campos, para o 
+petróleo nacional, e da Nigéria, para petróleo importado. 
+Aproximadamente 70% é nacional e 30%, importado.
+[text 77 root f2]
+PRÓXIMA ETAPA
+[text 79 root f2]
+A que temperatura o óleo bruto é aquecido quando sai 
+do Tanque de Petróleo Repar?
+[text 80 root f2]
+500º
+[text 81 root f2]
+250º
+[text 82 root f2]
+140º
+[text 89 root f2]
+A primeira etapa do processo de refino é a destilação 
+atmosférica. O petróleo é aquecido a temperatura de 250º  
+e fracionado em uma torre que possui pratos perfurados 
+em várias alturas. Como a parte inferior da torre é mais 
+quente, os hidrocarbonetos gasosos sobem e se 
+condensam ao passarem pelos pratos. Nessa etapa são 
+extraídos, por ordem crescente de densidade, gases 
+combustíveis, GLP, Gasolina, Nafta, Solventes, 
+Querosenes, Óleo Diesel e um óleo pesado, chamado 
+resíduo atmosférico (RAT), que é extraído do fundo da 
+torre.
+[text 91 root f2]
+A primeira etapa do processo de refino é a destilação 
+atmosférica. O petróleo é aquecido e fracionado em uma 
+torre que possui pratos perfurados em várias alturas. Como 
+a parte inferior da torre é mais quente, os hidrocarbonetos 
+gasosos sobem e se condensam ao passarem pelos 
+pratos. Nessa etapa são extraídos, por ordem crescente de 
+densidade, gases combustíveis, GLP, Gasolina, Nafta, 
+Solventes, Querosenes, Óleo Diesel e um óleo pesado, 
+chamado resíduo atmosférico (RAT), que é extraído do 
+fundo da torre.
+[text 95 root f2]
+Onde será processado o resíduo de vácuo escoado 
+na parte inferior da torre?
+[text 96 root f2]
+Craqueamento
+[text 97 root f2]
+Destilação
+[text 98 root f2]
+Desasfaltação
+[text 105 root f2]
+O resíduo atmosférico é então reaquecido e levado para 
+uma outra torre (Unidade a Vácuo), onde o seu 
+fracionamento ocorrerá a uma pressão abaixo da 
+atmosfera. Nessa torre será extraída mais uma parcela de 
+Óleo Diesel e um produto chamado genericamente de 
+Gasóleo, que não constitui um produto acabado, mas sim 
+intermediário. O Gasóleo servirá como matéria-prima para 
+produção de mais gases combustíveis, GLP, gasolina e 
+outros, no Craqueamento.
+O resíduo de fundo da destilação a vácuo (chamado de RV, 
+ou Resíduo de Vácuo) é escoado na parte inferior da torre e 
+será processado na Desasfaltação.
+[text 107 root f2]
+O resíduo atmosférico é então reaquecido e levado para 
+uma outra torre (Unidade a Vácuo), onde o seu 
+fracionamento ocorrerá a uma pressão abaixo da 
+atmosfera. Nessa torre será extraída mais uma parcela de 
+Óleo Diesel e um produto chamado genericamente de 
+Gasóleo, que não constitui um produto acabado, mas sim 
+intermediário. O Gasóleo servirá como matéria-prima para 
+produção de mais gases combustíveis, GLP, gasolina e 
+outros, no Craqueamento.
+O resíduo de fundo da destilação a vácuo (chamado de RV, 
+ou Resíduo de Vácuo) é escoado na parte inferior da torre e 
+será processado na Desasfaltação.
+[text 112 root f2]
+Quais são as modalidades de Craqueamento 
+existentes no processo de destilação?
+[text 113 root f2]
+Destilação e Térmico
+[text 114 root f2]
+Térmico e Catalítico
+[text 115 root f2]
+Catalítico e  Desasfaltação
+[text 122 root f2]
+Este processo quebra as moléculas de hidrocarbonetos 
+intermediários, convertendo-as em nafta, que irão compor 
+a GASOLINA, e outros derivados de maior valor comercial. 
+Os dois principais tipos são o craqueamento térmico e o 
+catalítico. O térmico utiliza calor e altas pressões para 
+efetuar a conversão de moléculas grandes em outras 
+menores e o catalítico utiliza um catalisador, que é uma 
+substância que facilita essa conversão, porém em 
+condições de pressão mais reduzidas. Os catalisadores 
+mais usados são: platina, alumina, bentanina ou sílica.
+Na Repar, o processo utilizado é o craqueamento catalítico. 
+Desse processo, resultarão GLP, Nafta Craqueada e 
+diluente para Óleo Combustível. Esse último será integrado 
+ao Resíduo Asfáltico.
+[text 124 root f2]
+Este processo quebra as moléculas de hidrocarbonetos 
+intermediários, convertendo-as em nafta, que irão compor 
+a GASOLINA, e outros derivados de maior valor comercial. 
+Os dois principais tipos são o craqueamento térmico e o 
+catalítico. O térmico utiliza calor e altas pressões para 
+efetuar a conversão de moléculas grandes em outras 
+menores e o catalítico utiliza um catalisador, que é uma 
+substância que facilita essa conversão, porém em 
+condições de pressão mais reduzidas. Os catalisadores 
+mais usados são: platina, alumina, bentanina ou sílica.
+Na Repar, o processo utilizado é o craqueamento catalítico. 
+Desse processo, resultarão GLP, Nafta Craqueada e 
+diluente para Óleo Combustível. Esse último será integrado 
+ao Resíduo Asfáltico.
+[text 128 root f2]
+O GLP é popularmente conhecido como:
+[text 129 root f2]
+Óleo Diesel
+[text 130 root f2]
+Gás de Cozinha
+[text 131 root f2]
+Asfalto
+[text 138 root f2]
+O GLP proveniente dos processos de destilação e 
+craqueamento fica armazenado em esferas. Conhecido 
+popularmente como gás de cozinha, o GLP é obtido a partir 
+das frações mais leves do petróleo. No caso da Repar, é a 
+mistura de C3 (Propano) e C4 (Butano).
+[text 139 root f2]
+O resíduo de fundo da destilação à vácuo é processado
+para a Unidade de desasfaltação dando origem ao:
+[text 140 root f2]
+Óleo desasfaltado
+[text 141 root f2]
+Querosene
+[text 148 root f2]
+O RV segue para a Unidade de Desasfaltação, onde dará 
+origem a Óleo Desasfaltado (ODES) e Resíduo Asfáltico 
+(RASF). O ODES vai se juntar ao Gasóleo em tanque e o 
+Resíduo Asfáltico vira: matéria-prima para a Fosfertil 
+(fertilizantes e matérias-primas para indústrias químicas); 
+óleo combustível, nas suas várias qualidades; ou cimento 
+asfáltico pesado (CAP).
+O ASFALTO
+Originalmente, o asfalto é encontrado dissolvido no 
+petróleo e pode ser obtido por evaporação natural de 
+depósitos localizados à superfície terrestre (asfalto natural) 
+ou por processo em unidades industriais a partir do óleo 
+combustível. Quimicamente é formado por uma mistura de 
+hidrocarbonetos não voláteis de elevada massa molecular 
+e pode ser encontrado sob a forma líquida, viscosa ou 
+semi-sólida. O betume é o elemento ativo do asfalto e 
+transfere a ele a propriedade impermeabilizante e 
+aglutinante.
+[text 150 root f2]
+A gasolina A é resultante da combinação da nafta leve 
+originária da destilação e da nafta craqueada, originária do 
+craqueamento.
+A GASOLINA
+A gasolina é líquida, volátil, inflamável e constituída 
+quimicamente por uma mistura complexa de mais de 400 
+hidrocarbonetos. As características e especificações dos 
+componentes da gasolina são regulamentadas pela 
+Agência Nacional de Petróleo (ANP). O octano é um dos 
+hidrocarbonetos presentes em qualquer tipo de gasolina e 
+sua importância está relacionada com uma das principais 
+propriedades do combustível: o poder antidetonante, daí o 
+termo “octanagem”.
+[text 154 root f2]
+A combinação de Nafta Leve e de Nafta craqueada da 
+origem a:
+[text 155 root f2]
+Gasolina B
+[text 156 root f2]
+Gasolina A
+[text 163 root f2]
+A gasolina A é resultante da combinação da nafta leve 
+originária da destilação e da nafta craqueada, originária do 
+craqueamento.
+A GASOLINA
+A gasolina é líquida, volátil, inflamável e constituída 
+quimicamente por uma mistura complexa de mais de 400 
+hidrocarbonetos. As características e especificações dos 
+componentes da gasolina são regulamentadas pela 
+Agência Nacional de Petróleo (ANP). O octano é um dos 
+hidrocarbonetos presentes em qualquer tipo de gasolina e 
+sua importância está relacionada com uma das principais 
+propriedades do combustível: o poder antidetonante, daí o 
+termo “octanagem”.
+[text 165 root f2]
+O Diesel Pesado originário da destilação passa pelo 
+processo de hidrodessulfurização (retirada de compostos 
+de enxofre) e é combinado às Naftas Pesada e Leve, ao 
+Querosene e ao Diesel Leve para resultar no diesel que será 
+comercializado.
+O DIESEL
+O Diesel é constituído basicamente por hidrocarbonetos. 
+Possui concentrações baixas de enxofre, nitrogênio e 
+oxigênio. É um produto inflamável, medianamente tóxico, 
+volátil, límpido, isento de material em suspensão e com 
+odor forte e característico. O Óleo Diesel é utilizado em 
+motores de combustão interna e ignição por compressão 
+empregados nas mais diversas aplicações. Desde 1994, a 
+Petrobras produz dois tipos de óleo diesel - o metropolitano 
+e o interior. O metropolitano (S500), com teor de 500ppm 
+de enxofre, é consumido em regiões que necessitam de um 
+óleo com menor emissão de material particulado e que 
+produza ganho ambiental. O diesel interior (S2000), com 
+teor de 2000ppm, é consumido nas demais regiões do 
+país. Dentro desses dois tipos existem ainda os seguintes 
+subtipos: óleo diesel aditivado e óleo Diesel Inverno. O óleo 
+Diesel Marítimo se diferencia dos demais.
+[text 169 root f2]
+O diesel comercializado é resultante do processo de:
+[text 170 root f2]
+Hidrodessulfurização
+[text 171 root f2]
+Octanagem
+[text 178 root f2]
+O Diesel Pesado originário da destilação passa pelo 
+processo de hidrodessulfurização (retirada de compostos 
+de enxofre) e é combinado às Naftas Pesada e Leve, ao 
+Querosene e ao Diesel Leve para resultar no diesel que será 
+comercializado.
+O DIESEL
+O Diesel é constituído basicamente por hidrocarbonetos. 
+Possui concentrações baixas de enxofre, nitrogênio e 
+oxigênio. É um produto inflamável, medianamente tóxico, 
+volátil, límpido, isento de material em suspensão e com 
+odor forte e característico.
+[text 180 root f2]
+O querosene para aviação (QAV) é obtido a partir do 
+querosene resultante da destilação e suas propriedades 
+são melhoradas na HDS (HidroDesSulfurização). A 
+destilação também pode adequar o QAV. 
+A hidrodessulfurização é um processo utilizado para retirar 
+compostos de enxofre, usando hidrogênio. Esse processo 
+melhora a qualidade desejada para o produto final, 
+adequando-o à legislação.
+[text 184 root f2]
+O querosene de aviação é resultado do processo de:
+[text 185 root f2]
+Fracionamento
+[text 192 root f2]
+O querosene possui diversas características específicas, 
+como uma ampla curva de destilação, conferindo a ele um 
+excelente poder de solvência e uma taxa de evaporação 
+lenta, além de um ponto de fulgor que oferece relativa 
+segurança ao manuseio. É um produto intermediário entre 
+a gasolina e o óleo diesel, obtido por destilação fracionada 
+do óleo cru. Sua aplicação vai desde líquido para limpeza 
+até como combustível para aviação.
+[text 197 root f2]
+Quais sãos os produtos gerados pela Nafta leve após 
+passar pela Unidade de Solvente?
+[text 198 root f2]
+Nafta Peróxidos
+[text 199 root f2]
+Residuo Atmosférico
+[text 200 root f2]
+Solvente de borracha
+[text 208 root f2]
+A Nafta Leve obtida na destilação pode passar pela 
+Unidade de Solvente para dar origem à Nafta Peróxidos, 
+Nafta Univen e ao Solvente de Borracha.
+OS SOLVENTES
+Os solventes correspondem às frações especiais de 
+hidrocarbonetos líquidos obtidos pela destilação de naftas 
+leves e médias, que são selecionadas e refinadas. Esse 
+produto é utilizado em processos industriais e formulações 
+comerciais para dissolver, manter em suspensão ou servir 
+de veículo para outros ingredientes dessas operações. Os 
+modernos processos de refinação produzem uma grande 
+variedade de solventes de alta pureza, grande estabilidade 
+e diversas amplitudes de faixas e pontos de ebulição. 
+Esses solventes são, em geral, de baixo custo por estarem 
+disponíveis em grandes volumes e possuem uma 
+composição química muito variada, que pode conter 
+hidrocarbonetos parafínicos, aromáticos ou naftênicos. 
+Para vibilizar a entrega do produto da refinaria para a 
+Transpetro, e posteriormente às distribuidores, são usados 
+satélites, rádio comunicação e fibras óticas para tráfego de 
+dados operacionais. 
+[label sprite213 f40] p1
+[label sprite213 f42] p2
+[label sprite213 f44] p3
+[label sprite213 f46] p4
+[label sprite213 f48] p5
+[label sprite213 f50] p6
+[label sprite213 f52] p7
+[label sprite213 f54] p8
+[label sprite213 f56] p9
+[label sprite213 f58] p10
+[label sprite213 f60] final
+[text 216 root f2]
+PONTUAÇÃO
+[edit 218 root f2 var=_root.pontos]
+0
+[text 219 root f2]
+pts
+[text 247 root f2]
+02
+[text 248 root f2]
+ETAPA
+[text 249 root f2]
+03
+[text 250 root f2]
+01
+[text 251 root f2]
+04
+[text 252 root f2]
+06
+[text 253 root f2]
+07
+[text 254 root f2]
+05
+[text 255 root f2]
+08
+[text 256 root f2]
+10
+[text 257 root f2]
+JOGO
+[text 258 root f2]
+FIM DE
+[text 259 root f2]
+09
+[text 260 root f2]
+FINAL
+[text 261 root f2]
+REPAR
+[text 262 root f2]
+CONHEÇA A
+[edit 265 root f2 var=_root.toterro]
+
+[edit 266 root f2 var=_root.totcerto]
+
+[text 267 root f2]
+respostas certas
+[text 268 root f2]
+respostas erradas
+[label root f3] fase_02
+[text 293 root f3]
+GLP
+[text 294 root f3]
+NAFTA LEVE
+[text 295 root f3]
+NAFTA PESADA
+[text 296 root f3]
+QUEROSENE
+[text 297 root f3]
+DIESEL
+[text 298 root f3]
+RAT
+[text 299 root f3]
+Unidade de
+Destilação
+[label root f4] fase_03
+[text 304 root f4]
+RESÍDUO ATMOSFÉRICO
+[text 305 root f4]
+DIESEL PESADO
+[text 306 root f4]
+GASÓLEO
+[text 307 root f4]
+RV
+[text 308 root f4]
+Unidade a
+Vácuo
+[label root f5] fase_04
+[text 312 root f5]
+GLP (2)
+[text 313 root f5]
+NAFTA CRAQUEADA
+[text 314 root f5]
+DILUENTE PARA 
+ÓLEO COMBUSTÍVEL
+[text 315 root f5]
+Unidade de 
+Craqueamento
+[label root f6] fase_05
+[text 326 root f6]
+GLP (DESTILAÇÃO)
+[text 327 root f6]
+GLP (CRAQUEAMENTO)
+[label root f7] fase_06
+[text 330 root f7]
+RESÍDUO DE VÁCUO
+[text 331 root f7]
+DILUENTE PARA ÓLEO
+COMBUSTÍVEL (CRAQUEAMENTO)
+[text 332 root f7]
+MATÉRIA PRIMA
+[text 334 root f7]
++
+[text 335 root f7]
+RESÍDUO 
+ASFALTICO
+[text 339 root f7]
+Unidade de
+Desasfaltação
+[text 340 root f7]
+Fósfertil
+[label root f8] fase_07
+[text 344 root f8]
+NAFTA CRAQUEADA
+[text 345 root f8]
+NAFTA LEVE (DESTILAÇÃO)
+[label root f9] fase_08
+[text 358 root f9]
+DIESEL LEVE
+[text 360 root f9]
+MISTURA
+[text 369 root f9]
+DIESEL PARA USO EM MOTORES
+[label root f10] fase_09
+[text 371 root f10]
+
+[text 372 root f10]
+QUEROSENE DESTILAÇÃO
+[text 373 root f10]
+QAV-1
+[label root f11] fase_10
+[text 377 root f11]
+NAFTA LEVE (DESTILAÇÃO)
+[text 378 root f11]
+SOLVENTE DE BORRACHA
+[text 379 root f11]
+NAFTA PERÓXIDA
+[text 380 root f11]
+Unidade de 
+Solvente
+[label root f12] fase_11
+[text 383 root f12]
+Obrigado por participar!
+[text 384 root f12]
+JOGAR NOVAMENTE >
+[text 385 root f12]
+ENVIAR À UM AMIGO 
+[text 386 root f12]
+sua pontuação:
+[edit 387 root f12 var=_root.pontos]
+
+[text 388 root f12]
+................................
+[text 390 root f12]
+Nome do Amigo:
+[text 391 root f12]
+Chave do Amigo:
+[text 392 root f12]
+.....................................................
+CONHEÇA TODO O PROCESSO >
+[text 393 root f12]
+@petrobras.com.br
+[edit 395 root f12 var=]
+
+[edit 396 root f12 var=]
+
+[text 398 root f12]
+Enviar
+[label root f13] final

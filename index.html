@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conheça a REPAR – Como Funciona</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/jogo.css">
+</head>
+<body>
+
+<div class="jogo">
+  <header class="topo">
+    <h1 class="titulo"><span>Conheça a</span> REPAR</h1>
+    <div class="placar" aria-live="polite">
+      <span class="placar-rotulo">Pontuação</span>
+      <strong><span id="pontos">0</span>pts</strong>
+      <span class="placar-delta" id="placar-delta"></span>
+    </div>
+  </header>
+
+  <nav class="etapas" id="etapas" aria-label="Etapas do jogo"></nav>
+
+  <main class="palco" id="palco">
+    <div class="cena" id="cena" aria-hidden="true"></div>
+    <div class="personagem" id="personagem" aria-hidden="true"></div>
+    <section class="balao" id="balao" aria-live="polite"></section>
+  </main>
+
+  <footer class="rodape">
+    <img src="images/logo.gif" width="375" height="52" alt="Refinaria Presidente Getúlio Vargas 30 anos · Petrobras">
+  </footer>
+</div>
+
+<script src="js/perguntas.js"></script>
+<script src="js/cenas.js"></script>
+<script src="js/jogo.js"></script>
+</body>
+</html>
