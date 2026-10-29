@@ -66,7 +66,6 @@
       return `<span class="${classes.join(" ")}"${i === atual ? ' aria-current="step"' : ""}><small>Etapa</small><b>${n}</b></span>`;
     });
     itens.push(`<span class="etapa${atual === "fim" ? " atual" : ""}"><small>Fim de</small><b>JOGO</b></span>`);
-    itens.push(`<a class="etapa" href="geral.html" target="_blank" rel="noopener" title="Ver o processo completo da refinaria"><small>Etapa</small><b>FINAL</b></a>`);
     el.etapas.innerHTML = itens.join("");
   }
 

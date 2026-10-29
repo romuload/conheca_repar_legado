@@ -101,7 +101,7 @@ body {
 
 .etapas {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(11, 1fr);
   gap: 4px;
   margin-bottom: 6px;
 }

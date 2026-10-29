@@ -19,13 +19,13 @@ rodando o SWF no Ruffle.
 
 1. **Cabeçalho fixo**: "CONHEÇA A REPAR" + caixa "PONTUAÇÃO 0pts".
 2. **Barra de etapas**: ETAPA 01…10, FIM DE JOGO, ETAPA FINAL. A etapa atual fica destacada (cinza).
-   Durante o jogo os botões não navegam; "ETAPA FINAL" abre `geral.html` (infográfico).
+   Durante o jogo os botões não navegam; "ETAPA FINAL" abria `geral.html` (infográfico, hoje em `_legado/`; a versão nova não tem esse botão).
 3. **Cada etapa**: ilustração animada da unidade (setas de entrada/saída com rótulos) + personagem
    (técnico com capacete) com balão contendo a pergunta, 3 alternativas (radio) e **RESPONDER >>**.
 4. **Após responder**: o balão troca para a explicação (texto com rolagem) + **PRÓXIMA ETAPA >>**.
    Não há indicação visual de certo/errado — só a pontuação muda.
 5. **Fim de jogo**: "Obrigado por participar!", "sua pontuação: N", **JOGAR NOVAMENTE >**,
-   **CONHEÇA TODO O PROCESSO >** (abre `geral.html`) e formulário **ENVIAR À UM AMIGO**
+   **CONHEÇA TODO O PROCESSO >** (abria `geral.html`) e formulário **ENVIAR À UM AMIGO**
    (Nome do Amigo, Chave do Amigo + "@petrobras.com.br", botão Enviar).
 6. Rodapé: logos "Refinaria Presidente Getúlio Vargas 30 anos" e "BR Petrobras".
 
