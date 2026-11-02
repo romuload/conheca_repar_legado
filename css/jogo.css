@@ -399,10 +399,15 @@ a.etapa:hover, a.etapa:focus-visible { filter: brightness(1.15); }
 
 /* ---------- rodapé ---------- */
 
-.rodape { display: flex; justify-content: center; align-items: center; gap: 12px 28px; flex-wrap: wrap; padding-top: 10px; }
-.rodape img { max-width: 100%; width: auto; }
-.rodape .logo-selo { height: 46px; }
-.rodape .logo-petrobras { height: 30px; }
+.rodape {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px 40px;
+  padding-top: 14px;
+}
+.rodape img { max-width: 100%; height: auto; }
 
 /* ---------- telas estreitas ---------- */
 
